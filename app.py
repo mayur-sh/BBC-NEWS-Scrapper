@@ -21,7 +21,7 @@ st.set_page_config(page_title='BBC News Scrapper', page_icon='newspaper.png', la
 #####################################################
 
 embed_component = {'Linkedin': """<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-               <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="Dark" data-type="HORIZONTAL" data-vanity="mayur-shrotriya" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/mayur-shrotriya-b45133142?trk=profile-badge">Connect with me!</a></div>
+               <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="Dark" data-type="HORIZONTAL" data-vanity="mayur-sh" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/mayur-sh?trk=profile-badge">Connect with me on Linked In!</a></div>
                """ }
               
                
